@@ -1,0 +1,2 @@
+# COMP3314-Assignment
+These are exercises I have completed in Python when studying the COMP3314 machine learning course. The exercises led me through maths, coding and experiments. I have tried out numpy, sklearn, keras, tensorflow... and used them to implement many machine learning tasks like data preprocessing, classification, building neural network... These exercises helped me familiarize myself with doing machine learning task in Python.
